@@ -1,0 +1,14 @@
+.result{
+    text-align: center;
+    margin-top: 5%;
+    color: white;
+    border-style: double;
+    margin-top: 20px;
+   
+}
+#heading{
+    background-image: url(game.jpg);
+    background-size: cover;
+ 
+}
+
